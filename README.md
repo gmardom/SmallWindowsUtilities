@@ -2,7 +2,7 @@
 
 This repo contains small windows utilites written in c.
 
-> *Warning* This software may contain bugs and in genral never will be considered finished.
+> **Warning** This software may contain bugs and in genral never will be considered finished.
 > Any contributions are welcome.
 
 ## Building
